@@ -10,4 +10,4 @@
 
 - 相似度搜索演示
 
-![cq相似度搜索演示](https://user-images.githubusercontent.com/51696131/117959626-cb073400-b34e-11eb-90b3-7da1632db7bb.gif)
+![cq相似度搜索演示](https://user-images.githubusercontent.com/51696131/118108281-63b2b800-b412-11eb-9d43-2f250691ece2.gif)
